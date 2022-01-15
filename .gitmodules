@@ -1,0 +1,3 @@
+[submodule "bacen-spec"]
+	path = bacen-spec
+	url = https://github.com/bacen/pix-api.git
